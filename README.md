@@ -15,5 +15,12 @@ If you want a basic code formatter with lesser architectural and configuration c
 
 🧨- useful when rules are enforced in ci pipeline
 
+### App router | Page router
+Automatically handle the routing logic , data fetching, streaming, and rendering of application. | execute server side functions 
+
+App Router, however, gives you more control and is better suited for complex routing scenarios. Convention vs. Configuration: With Pages Router, you follow a convention (file names and structures). App Router is more about configuration, where you define routes through code
+
+
+
 
 
