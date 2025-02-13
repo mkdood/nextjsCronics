@@ -21,6 +21,11 @@ Automatically handle the routing logic , data fetching, streaming, and rendering
 App Router, however, gives you more control and is better suited for complex routing scenarios. Convention vs. Configuration: With Pages Router, you follow a convention (file names and structures). App Router is more about configuration, where you define routes through code
 
 
+## turbopack
+
+## alias
+
+
 
 
 
