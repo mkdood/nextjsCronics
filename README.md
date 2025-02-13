@@ -1,5 +1,7 @@
 # nextjsCronics
 
+
+### ESlint
 1. ESlint = By using ESLint, you can ensure that your code follows the same format, structure, and logic across your files, modules, and components
 2. Why ESLint is used in react?
    
@@ -12,4 +14,6 @@ If you want a basic code formatter with lesser architectural and configuration c
 
 
 🧨- useful when rules are enforced in ci pipeline
+
+
 
